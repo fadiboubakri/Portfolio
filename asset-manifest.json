@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.8391c46f.css",
-    "main.js": "/Portfolio/static/js/main.1b2b4c85.js",
+    "main.js": "/Portfolio/static/js/main.e4667bae.js",
     "static/media/me.jpg": "/Portfolio/static/media/me.7b4fa4891dee31c1562e.jpg",
     "static/media/fa-solid-900.svg": "/Portfolio/static/media/fa-solid-900.33f11e8e33e406b0dc21.svg",
     "static/media/fa-brands-400.svg": "/Portfolio/static/media/fa-brands-400.5f2a2f236048660df440.svg",
@@ -28,6 +28,7 @@
     "static/media/fa-regular-400.eot": "/Portfolio/static/media/fa-regular-400.86ce78132c18df414d83.eot",
     "static/media/fa-regular-400.ttf": "/Portfolio/static/media/fa-regular-400.235a1aa30ba10c7d00d0.ttf",
     "static/media/github.png": "/Portfolio/static/media/github.237e2214562c441f67b2.png",
+    "static/media/Linedata_Logo.jpg": "/Portfolio/static/media/Linedata_Logo.98209870b46781039e8e.jpg",
     "static/media/3WA.png": "/Portfolio/static/media/3WA.76c885f6318ce24b8cd9.png",
     "static/media/fa-regular-400.woff": "/Portfolio/static/media/fa-regular-400.2ccf005a6998d30de3d3.woff",
     "static/media/fa-regular-400.woff2": "/Portfolio/static/media/fa-regular-400.e5917ad1531005ea8c3f.woff2",
@@ -35,10 +36,10 @@
     "static/media/Logo-shipzzer.svg": "/Portfolio/static/media/Logo-shipzzer.06338a657df0c57624e0.svg",
     "index.html": "/Portfolio/index.html",
     "main.8391c46f.css.map": "/Portfolio/static/css/main.8391c46f.css.map",
-    "main.1b2b4c85.js.map": "/Portfolio/static/js/main.1b2b4c85.js.map"
+    "main.e4667bae.js.map": "/Portfolio/static/js/main.e4667bae.js.map"
   },
   "entrypoints": [
     "static/css/main.8391c46f.css",
-    "static/js/main.1b2b4c85.js"
+    "static/js/main.e4667bae.js"
   ]
 }
