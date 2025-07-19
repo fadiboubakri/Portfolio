@@ -37,7 +37,7 @@ const skills = {
         "⚡ Develop highly interactive Front end / User Interfaces for your website",
         "⚡ Building responsive website front end using ReactJS / Angular",
         "⚡ Building responsive Apps using React Native",
-        "⚡ Integrating the frontend interfaces with REST APIs",
+        "⚡ Integrating the frontend interfaces with REST APIs and GraphQL",
       ],
       softwareSkills: [
         {
@@ -265,7 +265,7 @@ const experience = {
           title: "Senior Frontend Developer",
           company: "Linedata",
           company_url: "https://www.linedata.com/",
-          logo_path: "Linedata.png",
+          logo_path: "Linedata_Logo.jpg",
           duration: "Mar 2024 - Present",
           location: "Hybrid",
           description: [
