@@ -16,7 +16,7 @@ const greeting = {
     "Software Engineer with an Embedded system background.",
   quote: "Always learning 🔥",
   resumeLink:
- "https://drive.google.com/file/d/1CZvFkeeyurrAdldcS-Gh3d1PAErJhyme/view?usp=sharing" ,
+ "https://drive.google.com/file/d/1kXmSCDBlRXl2e6ST8-JvZMp-4s4oIKru/view?usp=drive_link" ,
   mail: "mailto:fadiiboubakrii@gmail.com",
 };
 
@@ -261,6 +261,24 @@ const experience = {
     {
       title: "Work Experience",
       experiences: [
+        {
+          title: "Senior Frontend Developer",
+          company: "Linedata",
+          company_url: "https://www.linedata.com/",
+          logo_path: "Linedata.png",
+          duration: "Mar 2024 - Present",
+          location: "Hybrid",
+          description: [
+            "⚡ Spearheaded the development and maintenance of high-performance web applications and hybrid desktop-web applications, ensuring seamless user experiences across multiple platforms.",
+            "⚡ Implemented scalable state management strategies and API integrations, improving application functionality and reliability.",
+            "⚡ Collaborated closely with cross-functional teams to troubleshoot and resolve complex issues, ensuring smooth deployments and optimal application performance.",
+            "⚡ Actively contributed to sprint planning, showcases, and team discussions, fostering collaboration and delivering value with each sprint.",
+            "⚡ Ensured continuous quality by increasing unit test coverage on critical paths to 80%, building robust test suites with Jest.",
+            "⚡ Gained in-depth product knowledge and developed expertise in CI/CD pipelines, micro-frontend architecture, and cloud-based troubleshooting.",
+            "-Technologies : React, TypeScript, Jest, Docker, CI/CD, Micro-frontends, GraphQL"
+          ],
+          color: "#4285F4",
+        },
         {
           title: "Software engineer",
           company: "Shipzzer",
